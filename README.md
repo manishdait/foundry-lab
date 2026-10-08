@@ -1,4 +1,4 @@
-# foundry-project
+# foundry-lab
 
 A simple demo project built with Foundry for learning Solidity smart contract development.
 
@@ -17,7 +17,7 @@ foundryup
 1. **Create a New Foundry Project**
 
 ```bash
-forge init foundary-project
+forge init foundary-lab
 ```
 Creates a new Foundry project with the default project structure.
 
